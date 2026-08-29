@@ -202,6 +202,13 @@
             //bool result = smallSet.IsSubsetOf(setA);
             //Console.WriteLine(result);
             #endregion
+
+            #region Parts that have not been explained in session are
+            //Exercise 5: Queue
+            //Exercise 6: Stack
+
+            #endregion
+
         }
     }
 }
